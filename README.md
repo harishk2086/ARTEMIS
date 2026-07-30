@@ -1,11 +1,3 @@
------------------------------------------------------
-🚆 ARTEMIS
-
-Autonomous Railway Track Evaluation &
-Monitoring Intelligent System
-
-YOLOv8 • Computer Vision • Python
------------------------------------------------------
 # 🚆 ARTEMIS
 
 AI-powered railway track defect detection using YOLOv8 and Computer Vision.
