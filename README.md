@@ -48,19 +48,24 @@ ARTEMIS addresses these challenges by leveraging deep learning and computer visi
 
 ## 📂 Project Structure
 
-```
+```text
 ARTEMIS/
 │
-├── classify_webcam.py
-├── best.pt
-├── requirements.txt
+├── src/
+│   └── classify_webcam.py
+│
+├── model/
+│   └── best.pt
+│
 ├── README.md
 ├── LICENSE
+├── requirements.txt
 ├── .gitignore
 │
 ├── images/
 │
 └── detections/
+```
 ```
 
 ---
