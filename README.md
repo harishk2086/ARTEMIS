@@ -1,6 +1,6 @@
 # 🚆 ARTEMIS
 
-# Autonomous Railway Track Evaluation & Monitoring Intelligent System
+AI-powered railway track defect detection using YOLOv8 and Computer Vision.
 
 ARTEMIS is an AI-powered railway track inspection system that utilizes **Computer Vision** and **YOLOv8** to detect railway track defects in real time. The project aims to automate railway track monitoring, enabling faster, safer, and more efficient inspections while reducing dependence on manual inspection methods.
 
